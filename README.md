@@ -130,7 +130,7 @@ Dentro de las configuraciones para la generacion de tokens, se agrego un certifi
 Los archivos que se usaron para la seguridad del token se encuentran en recursos dentro de la carpeta de recursos.
 
 <div align="center">
-    <img src="imagenes/5.png" width="400px"></img> 
+    <img src="imagenes/5.PNG" width="400px"></img> 
 </div> 
   
 - ELIMINA JKS DE CERTIFICADOS SI YA EXISTEN 
@@ -164,7 +164,7 @@ Los comandos anteriores nos sirvieron para eliminar , crear y dar de alta un cer
 para que asi obtengamos al final un token con firma RS256.
 
 <div align="center">
-    <img src="imagenes/6.png" width="400px"</img> 
+    <img src="imagenes/6.PNG" width="400px"</img> 
 </div>
 
 #### Configuración a nivel base de datos ####
@@ -198,7 +198,7 @@ Con esta forma de generación de token, podremos hacer que cada usuario tenga un
 Esta configuración nos permite tambien agregar información adicional a nuestro token, que de hecho solo se aplica el Throttling a usuarios publicos
 
 <div align="center">
-    <img src="imagenes/7.png" width="400px"</img> 
+    <img src="imagenes/7.PNG" width="400px"</img> 
 </div>
 
 
@@ -261,11 +261,11 @@ Ahora todo esto se hace para que tu puedas tener esto en el modelo de datos y pu
 Y ahora podemos recibir las validaciones del modelo en el idioma solicitado
 
 <div align="center">
-    <img src="imagenes/8.png" width="500px"></img> 
+    <img src="imagenes/8.PNG" width="500px"></img> 
 </div>
 
 <div align="center">
-    <img src="imagenes/9.png" width="500px"></img> 
+    <img src="imagenes/9.PNG" width="500px"></img> 
 </div> 
 
  
